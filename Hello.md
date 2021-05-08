@@ -9,3 +9,7 @@ This is another code push to Github
 # Local Commit 1
 
 This is a third commit which is kept local and not pushed to Github
+
+# Local Commit 2
+
+This is another local commit which is not pushed to Github
