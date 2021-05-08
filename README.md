@@ -15,3 +15,5 @@ As stated above the main purpose is educational.
 This is a simple web project, deployment can be on any web server
 
 ## How to contribute 
+
+You can clone or fork the project and use it for learning git yourself
