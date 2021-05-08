@@ -8,6 +8,10 @@ This is an introduction text, to the amazingly simple project we got over here. 
 
 ## Purpose
 
-## How to contribute 
+As stated above the main purpose is educational.
 
 ## Deployment
+
+This is a simple web project, deployment can be on any web server
+
+## How to contribute 
